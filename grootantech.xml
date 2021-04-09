@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "SaveImageasfolder">
+    <test name = "compareimage">
+        <classes>
+            <class name =  "testseleproj.NewTest"/>
+            <class name = "testseleproj.Newtest2"/>       
+       
+         </classes>
+    </test>
+</suite>
